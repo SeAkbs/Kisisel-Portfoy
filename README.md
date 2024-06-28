@@ -5,11 +5,11 @@ Bu proje, HTML ve CSS kullanarak oluşturduğum kişisel portföy web sitesi ör
 ## Nasıl Çalıştırılır
 ```bash
 1. Depoyu klonlayın:
-   
-   https://github.com/SeAkbs/Kisisel-Portfoy.git
-2. Proje klasörüne gidin:
+   git clone https://github.com/SeAkbs/Kisisel-Portfoy.git
 
-cd kisiselPortfoy
+2. Proje klasörüne gidin:
+   cd kisiselPortfoy
+
 3. index.html dosyasını bir web tarayıcısında açın.
 
 ## Dosya Yapısı
