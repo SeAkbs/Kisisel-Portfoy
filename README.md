@@ -6,7 +6,7 @@ Bu proje, HTML ve CSS kullanarak oluşturduğum kişisel portföy web sitesi ör
 ```bash
 1. Depoyu klonlayın:
    
-   git clone https://github.com/kullaniciadi/kisiselPortfoy
+   https://github.com/SeAkbs/Kisisel-Portfoy.git
 2. Proje klasörüne gidin:
 
 cd kisiselPortfoy
